@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Ireland
     description: "Ireland Government Open Data"
     humanURL: https://data.gov.ie/pages/developers
-    baseURL: https://data.gov.ie/pages/developers
     tags:
       - Government
     properties:
